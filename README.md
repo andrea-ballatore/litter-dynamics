@@ -14,7 +14,7 @@ Data from Litterati (https://www.litterati.org)
 
 ## How to cite
 
-A. Ballatore, S. Cucurachi, T. J. Verhagen, Z. Li, "This city is not a bin: Crowdmapping the distribution of urban litter", _Journal of Industrial Ecology_, 2021
+A. Ballatore, T. J. Verhagen, Z. Li, S. Cucurachi, "This city is not a bin: Crowdmapping the distribution of urban litter", _Journal of Industrial Ecology_, 2021
 
 ## Author and maintainer
 
