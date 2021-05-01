@@ -1,3 +1,5 @@
+# Google Points of Interest 
+
 Using a dedicated research tool that we developed (https://github.com/andrea-ballatore/google-places-api-r), we retrieved 1,420 POIs located in Purmerend from the Google Maps Places API in March 2020. This tool partitions the query area into small areas, and then generates as API queries, re-splitting the areas as needed. 
 This method ensures full coverage of POIs in the target area. 
 Each resulting POI is associated with a location and with multiple “types” that describe its purposes. 
