@@ -9,14 +9,15 @@ This kind of dataset provides very high coverage and accuracy of urban POIs rele
 
 Because of Google’s terms of service, the data is available in aggregated form.
 
-Every hexagonal cell covers 5,000 m2.
+Each hexagonal cell covers 5,000 m2.
 
 - `google_places_categories_litter.csv`: categories of POIs used in this dataset.
-- `puremerend_litter_pois_hotspot_hexgrid5.gpkg`: litter and POI statistics with hotspot analysis in Purmerend, NL, with geometries in GeoPackage format.
-- `puremerend_litter_pois_hotspot_hexgrid5_attributes.csv`: Attribute table for previous dataset.
+- `purmerend_litter_tag_counts.csv`: counts of litter tags in this dataset (> 20).
+- `purmerend_litter_pois_hotspot_hexgrid5.gpkg`: litter and POI statistics with hotspot analysis in Purmerend, NL, with geometries in GeoPackage format.
+- `purmerend_litter_pois_hotspot_hexgrid5_attributes.csv`: Attribute table for previous dataset.
 
 Data dictionary:
-- `freq`: number of Litterati litter observations.
+- `freq`: number of Litterati litter observations in a hexagonal cell.
 - `freq_loci`: local Moran's I.
 - `freq_loci_pval`: p value for local Moran's I.
 - `freq_locgistar`: local G star.
