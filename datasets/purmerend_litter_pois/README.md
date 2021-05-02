@@ -34,10 +34,19 @@ Data dictionary:
 
 ## Point pattern analysis
 
-- ``: Co-occurrence of litter observations in Purmerend within a 100-meter radius from POIs for 25 Google POI types, including the number of POIs. 
+`purmerend_litter_pois_distances.csv`: Co-occurrence of litter observations in Purmerend within a given radius from POIs for 25 Google POI types, including the number of POIs.
 
+Data dictionary:
+- `gpoi_type`: type of Google POI.	
+- `lit_type`: type of Litterati litter.
+- `n`: number of litter observations.
+- `n_pois`: number of Google POIs of this type.
+- `thres_m`: distance threshold in metres.
+- `lit_per_poi`: litter per POI.
+- `all_lit`: all litter in the dataset (constant). 
+- `lit_pc`: percentage of all litter.
 
-- `purmerend_litter_pois_average_Lfunction.csv`: Average cross L-function (with z values) in range 0 to 100 meters between the most frequent 16 litter tags and 25 Google POI categories in Purmerend.
+`purmerend_litter_pois_average_Lfunction.csv`: Average cross L-function (with z values) in range 0 to 100 meters between the most frequent 16 litter tags and 25 Google POI categories in Purmerend.
 
 Data dictionary:
 - `poi_type`: type of Google POI.
