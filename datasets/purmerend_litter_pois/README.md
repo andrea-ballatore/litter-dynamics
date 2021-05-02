@@ -1,5 +1,7 @@
 # Litter and Google POIs for Purmerend analysis
 
+## Data
+
 Using a dedicated research tool that we developed (https://github.com/andrea-ballatore/google-places-api-r), we retrieved 1,420 POIs located in Purmerend from the Google Maps Places API in March 2020. This tool partitions the query area into small areas, and then generates as API queries, re-splitting the areas as needed. 
 This method ensures full coverage of POIs in the target area. 
 
@@ -10,6 +12,8 @@ This kind of dataset provides very high coverage and accuracy of urban POIs rele
 Because of Google’s terms of service, the data is available in aggregated form.
 
 The Litterati data in Purmerend includes 178,557 observations. 
+
+## Spatial distribution
 
 Each hexagonal cell covers 5,000 m2.
 
@@ -27,4 +31,18 @@ Data dictionary:
 - `freq_locg_fill`: cell colour for visualisation.
 - `gpoi_all`: count of all Google POIs in the cell.
 - `gpoi_restaurant` etc: count of Google POIs of a specific type in the cell.
+
+## Point pattern analysis
+
+- ``: Co-occurrence of litter observations in Purmerend within a 100-meter radius from POIs for 25 Google POI types, including the number of POIs. 
+
+
+- `purmerend_litter_pois_average_Lfunction.csv`: Average cross L-function (with z values) in range 0 to 100 meters between the most frequent 16 litter tags and 25 Google POI categories in Purmerend.
+
+Data dictionary:
+- `poi_type`: type of Google POI.
+- `lit_type`: type of litter.
+- `avg_L`: average cross L-function.
+- `max_L`: maximum cross L-function. 	
+- `avg_LZ`: Z value for average cross L-function.
 

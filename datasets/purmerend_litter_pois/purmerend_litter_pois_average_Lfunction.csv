@@ -1,0 +1,443 @@
+poi_type,lit_type,avg_L,max_L,avg_LZ
+all,all,114,220,-0.2
+bakery,all,116,225,-0.2
+bar,all,175,320,1
+beauty salon,all,95,204,-0.6
+book store,all,130,253,0.1
+bus station,all,220,386,1.9
+cafe,all,177,326,1
+department store,all,151,311,0.5
+gas station,all,103,205,-0.5
+grocery or supermarket,all,144,273,0.4
+gym,all,101,207,-0.5
+liquor store,all,134,274,0.2
+meal delivery,all,104,225,-0.5
+meal takeaway,all,155,310,0.6
+movie theater,all,127,238,0
+night club,all,182,331,1.1
+park,all,94,174,-0.7
+parking,all,161,297,0.7
+pharmacy,all,123,246,-0.1
+place of worship,all,103,228,-0.5
+restaurant,all,153,298,0.5
+school,all,94,185,-0.7
+shopping mall,all,147,278,0.4
+stadium,all,58,145,-1.4
+supermarket,all,152,286,0.5
+transit station,all,115,208,-0.2
+all,bag,101,201,-0.5
+bakery,bag,100,204,-0.5
+bar,bag,133,250,0.1
+beauty salon,bag,102,207,-0.5
+book store,bag,111,223,-0.3
+bus station,bag,175,309,1
+cafe,bag,138,257,0.2
+department store,bag,129,279,0.1
+gas station,bag,110,210,-0.3
+grocery or supermarket,bag,139,270,0.3
+gym,bag,110,216,-0.3
+liquor store,bag,130,290,0.1
+meal delivery,bag,91,203,-0.7
+meal takeaway,bag,127,260,0
+movie theater,bag,78,191,-1
+night club,bag,132,245,0.1
+park,bag,86,161,-0.8
+parking,bag,142,280,0.3
+pharmacy,bag,111,234,-0.3
+place of worship,bag,96,206,-0.6
+restaurant,bag,122,245,-0.1
+school,bag,81,161,-0.9
+shopping mall,bag,122,250,-0.1
+stadium,bag,63,167,-1.3
+supermarket,bag,150,290,0.5
+transit station,bag,110,202,-0.3
+all,beer,104,205,-0.5
+bakery,beer,88,181,-0.8
+bar,beer,168,318,0.8
+beauty salon,beer,113,256,-0.3
+book store,beer,96,213,-0.6
+bus station,beer,211,375,1.7
+cafe,beer,169,323,0.9
+department store,beer,130,287,0.1
+gas station,beer,107,228,-0.4
+grocery or supermarket,beer,138,272,0.2
+gym,beer,88,188,-0.8
+liquor store,beer,149,333,0.5
+meal delivery,beer,99,212,-0.6
+meal takeaway,beer,125,257,-0
+movie theater,beer,51,134,-1.5
+night club,beer,191,352,1.3
+park,beer,103,189,-0.5
+parking,beer,147,282,0.4
+pharmacy,beer,108,235,-0.4
+place of worship,beer,77,199,-1
+restaurant,beer,137,274,0.2
+school,beer,75,190,-1
+shopping mall,beer,141,262,0.3
+stadium,beer,37,100,-1.8
+supermarket,beer,151,295,0.5
+transit station,beer,108,196,-0.4
+all,bottle,114,225,-0.2
+bakery,bottle,101,200,-0.5
+bar,bottle,199,370,1.5
+beauty salon,bottle,111,270,-0.3
+book store,bottle,114,225,-0.2
+bus station,bottle,216,383,1.8
+cafe,bottle,193,358,1.4
+department store,bottle,172,346,0.9
+gas station,bottle,99,213,-0.6
+grocery or supermarket,bottle,135,266,0.2
+gym,bottle,98,218,-0.6
+liquor store,bottle,137,289,0.2
+meal delivery,bottle,102,237,-0.5
+meal takeaway,bottle,148,301,0.4
+movie theater,bottle,48,167,-1.6
+night club,bottle,231,423,2.1
+park,bottle,84,171,-0.9
+parking,bottle,164,311,0.8
+pharmacy,bottle,123,249,-0.1
+place of worship,bottle,90,197,-0.7
+restaurant,bottle,159,315,0.7
+school,bottle,80,161,-0.9
+shopping mall,bottle,151,293,0.5
+stadium,bottle,55,156,-1.4
+supermarket,bottle,145,283,0.4
+transit station,bottle,113,203,-0.3
+all,can,109,215,-0.4
+bakery,can,98,195,-0.6
+bar,can,180,333,1.1
+beauty salon,can,95,226,-0.6
+book store,can,114,227,-0.2
+bus station,can,222,405,1.9
+cafe,can,175,328,1
+department store,can,150,311,0.5
+gas station,can,110,227,-0.3
+grocery or supermarket,can,140,270,0.3
+gym,can,93,193,-0.7
+liquor store,can,140,301,0.3
+meal delivery,can,97,217,-0.6
+meal takeaway,can,139,287,0.3
+movie theater,can,74,168,-1.1
+night club,can,212,370,1.7
+park,can,91,180,-0.7
+parking,can,154,297,0.6
+pharmacy,can,124,249,-0
+place of worship,can,87,203,-0.8
+restaurant,can,146,292,0.4
+school,can,75,170,-1
+shopping mall,can,147,277,0.4
+stadium,can,46,125,-1.6
+supermarket,can,151,288,0.5
+transit station,can,113,205,-0.3
+all,candy,116,226,-0.2
+bakery,candy,116,232,-0.2
+bar,candy,184,338,1.2
+beauty salon,candy,109,212,-0.4
+book store,candy,132,258,0.1
+bus station,candy,199,363,1.5
+cafe,candy,186,341,1.2
+department store,candy,146,326,0.4
+gas station,candy,101,202,-0.5
+grocery or supermarket,candy,131,261,0.1
+gym,candy,123,241,-0.1
+liquor store,candy,129,256,0.1
+meal delivery,candy,121,246,-0.1
+meal takeaway,candy,152,301,0.5
+movie theater,candy,122,253,-0.1
+night club,candy,189,342,1.3
+park,candy,86,164,-0.8
+parking,candy,143,276,0.3
+pharmacy,candy,131,256,0.1
+place of worship,candy,110,226,-0.3
+restaurant,candy,157,304,0.6
+school,candy,95,183,-0.6
+shopping mall,candy,143,278,0.3
+stadium,candy,59,156,-1.4
+supermarket,candy,134,265,0.2
+transit station,candy,123,222,-0.1
+all,cardboard,110,211,-0.3
+bakery,cardboard,118,228,-0.2
+bar,cardboard,161,302,0.7
+beauty salon,cardboard,106,224,-0.4
+book store,cardboard,128,242,0
+bus station,cardboard,261,429,2.7
+cafe,cardboard,156,286,0.6
+department store,cardboard,138,279,0.2
+gas station,cardboard,90,184,-0.7
+grocery or supermarket,cardboard,126,235,-0
+gym,cardboard,87,185,-0.8
+liquor store,cardboard,109,224,-0.4
+meal delivery,cardboard,98,207,-0.6
+meal takeaway,cardboard,133,276,0.1
+movie theater,cardboard,138,260,0.2
+night club,cardboard,171,313,0.9
+park,cardboard,70,138,-1.1
+parking,cardboard,154,288,0.6
+pharmacy,cardboard,105,217,-0.4
+place of worship,cardboard,96,198,-0.6
+restaurant,cardboard,142,280,0.3
+school,cardboard,83,179,-0.9
+shopping mall,cardboard,127,231,0
+stadium,cardboard,59,147,-1.4
+supermarket,cardboard,133,243,0.1
+transit station,cardboard,117,207,-0.2
+all,celluloseacetate,118,216,-0.2
+bakery,celluloseacetate,120,218,-0.1
+bar,celluloseacetate,109,220,-0.4
+beauty salon,celluloseacetate,54,152,-1.5
+book store,celluloseacetate,74,146,-1.1
+bus station,celluloseacetate,269,602,2.9
+cafe,celluloseacetate,177,316,1
+department store,celluloseacetate,66,172,-1.2
+gas station,celluloseacetate,75,186,-1
+grocery or supermarket,celluloseacetate,154,267,0.6
+gym,celluloseacetate,68,148,-1.2
+liquor store,celluloseacetate,201,320,1.5
+meal delivery,celluloseacetate,65,136,-1.2
+meal takeaway,celluloseacetate,184,277,1.2
+movie theater,celluloseacetate,355,516,4.7
+night club,celluloseacetate,102,216,-0.5
+park,celluloseacetate,172,228,0.9
+parking,celluloseacetate,251,439,2.5
+pharmacy,celluloseacetate,178,363,1.1
+place of worship,celluloseacetate,139,400,0.3
+restaurant,celluloseacetate,120,222,-0.1
+school,celluloseacetate,171,310,0.9
+shopping mall,celluloseacetate,84,162,-0.9
+stadium,celluloseacetate,8,32,-2.4
+supermarket,celluloseacetate,172,294,0.9
+transit station,celluloseacetate,135,240,0.2
+all,cigarette,120,223,-0.1
+bakery,cigarette,115,225,-0.2
+bar,cigarette,149,279,0.5
+beauty salon,cigarette,83,188,-0.9
+book store,cigarette,105,209,-0.4
+bus station,cigarette,242,506,2.4
+cafe,cigarette,180,323,1.1
+department store,cigarette,140,288,0.3
+gas station,cigarette,104,209,-0.5
+grocery or supermarket,cigarette,150,274,0.5
+gym,cigarette,86,181,-0.8
+liquor store,cigarette,185,315,1.2
+meal delivery,cigarette,91,194,-0.7
+meal takeaway,cigarette,176,288,1
+movie theater,cigarette,263,397,2.8
+night club,cigarette,152,278,0.5
+park,cigarette,143,207,0.3
+parking,cigarette,216,383,1.8
+pharmacy,cigarette,156,317,0.6
+place of worship,cigarette,121,328,-0.1
+restaurant,cigarette,138,262,0.2
+school,cigarette,139,256,0.3
+shopping mall,cigarette,129,247,0.1
+stadium,cigarette,47,120,-1.6
+supermarket,cigarette,164,296,0.8
+transit station,cigarette,132,233,0.1
+all,energydrink,111,219,-0.3
+bakery,energydrink,96,196,-0.6
+bar,energydrink,191,347,1.3
+beauty salon,energydrink,91,216,-0.7
+book store,energydrink,106,219,-0.4
+bus station,energydrink,240,441,2.3
+cafe,energydrink,181,338,1.1
+department store,energydrink,170,338,0.9
+gas station,energydrink,106,228,-0.4
+grocery or supermarket,energydrink,140,266,0.3
+gym,energydrink,93,197,-0.7
+liquor store,energydrink,135,284,0.2
+meal delivery,energydrink,96,221,-0.6
+meal takeaway,energydrink,142,293,0.3
+movie theater,energydrink,66,154,-1.2
+night club,energydrink,234,401,2.2
+park,energydrink,88,181,-0.8
+parking,energydrink,163,315,0.7
+pharmacy,energydrink,134,263,0.2
+place of worship,energydrink,95,207,-0.6
+restaurant,energydrink,150,304,0.5
+school,energydrink,78,158,-1
+shopping mall,energydrink,144,272,0.4
+stadium,energydrink,44,133,-1.7
+supermarket,energydrink,152,285,0.5
+transit station,energydrink,113,205,-0.3
+all,firework,112,210,-0.3
+bakery,firework,150,247,0.5
+bar,firework,140,240,0.3
+beauty salon,firework,51,162,-1.5
+book store,firework,97,179,-0.6
+bus station,firework,571,889,9.1
+cafe,firework,145,322,0.4
+department store,firework,167,261,0.8
+gas station,firework,63,130,-1.3
+grocery or supermarket,firework,147,276,0.4
+gym,firework,79,188,-1
+liquor store,firework,84,210,-0.9
+meal delivery,firework,57,128,-1.4
+meal takeaway,firework,109,255,-0.4
+movie theater,firework,286,453,3.3
+night club,firework,156,240,0.6
+park,firework,109,187,-0.4
+parking,firework,214,390,1.8
+pharmacy,firework,85,174,-0.8
+place of worship,firework,79,187,-1
+restaurant,firework,127,248,0
+school,firework,153,310,0.5
+shopping mall,firework,116,193,-0.2
+stadium,firework,37,91,-1.8
+supermarket,firework,164,307,0.8
+transit station,firework,134,231,0.2
+all,mcdonalds,91,170,-0.7
+bakery,mcdonalds,72,140,-1.1
+bar,mcdonalds,111,204,-0.3
+beauty salon,mcdonalds,49,116,-1.6
+book store,mcdonalds,81,158,-0.9
+bus station,mcdonalds,100,177,-0.5
+cafe,mcdonalds,105,200,-0.4
+department store,mcdonalds,107,197,-0.4
+gas station,mcdonalds,69,136,-1.2
+grocery or supermarket,mcdonalds,81,159,-0.9
+gym,mcdonalds,68,145,-1.2
+liquor store,mcdonalds,72,166,-1.1
+meal delivery,mcdonalds,57,133,-1.4
+meal takeaway,mcdonalds,209,472,1.7
+movie theater,mcdonalds,61,134,-1.3
+night club,mcdonalds,110,194,-0.3
+park,mcdonalds,55,105,-1.4
+parking,mcdonalds,257,385,2.7
+pharmacy,mcdonalds,82,171,-0.9
+place of worship,mcdonalds,69,163,-1.2
+restaurant,mcdonalds,149,304,0.5
+school,mcdonalds,44,98,-1.7
+shopping mall,mcdonalds,94,181,-0.7
+stadium,mcdonalds,52,121,-1.5
+supermarket,mcdonalds,86,164,-0.8
+transit station,mcdonalds,84,151,-0.9
+all,metal,111,219,-0.3
+bakery,metal,96,195,-0.6
+bar,metal,187,346,1.2
+beauty salon,metal,97,230,-0.6
+book store,metal,105,226,-0.4
+bus station,metal,228,411,2.1
+cafe,metal,178,338,1.1
+department store,metal,155,322,0.6
+gas station,metal,109,230,-0.4
+grocery or supermarket,metal,139,269,0.3
+gym,metal,94,195,-0.7
+liquor store,metal,142,305,0.3
+meal delivery,metal,104,229,-0.5
+meal takeaway,metal,145,296,0.4
+movie theater,metal,76,177,-1
+night club,metal,222,388,1.9
+park,metal,95,185,-0.6
+parking,metal,157,307,0.6
+pharmacy,metal,128,257,0
+place of worship,metal,90,204,-0.7
+restaurant,metal,150,302,0.5
+school,metal,75,171,-1
+shopping mall,metal,148,276,0.4
+stadium,metal,47,127,-1.6
+supermarket,metal,151,288,0.5
+transit station,metal,114,205,-0.2
+all,paper,122,236,-0.1
+bakery,paper,132,252,0.1
+bar,paper,192,348,1.3
+beauty salon,paper,116,229,-0.2
+book store,paper,151,292,0.5
+bus station,paper,159,291,0.7
+cafe,paper,186,333,1.2
+department store,paper,177,346,1
+gas station,paper,116,227,-0.2
+grocery or supermarket,paper,150,289,0.5
+gym,paper,112,224,-0.3
+liquor store,paper,137,287,0.2
+meal delivery,paper,136,272,0.2
+meal takeaway,paper,160,313,0.7
+movie theater,paper,97,224,-0.6
+night club,paper,191,356,1.3
+park,paper,82,162,-0.9
+parking,paper,144,274,0.4
+pharmacy,paper,134,253,0.2
+place of worship,paper,114,230,-0.2
+restaurant,paper,165,319,0.8
+school,paper,77,160,-1
+shopping mall,paper,162,301,0.7
+stadium,paper,52,143,-1.5
+supermarket,paper,155,297,0.6
+transit station,paper,111,203,-0.3
+all,piece,121,235,-0.1
+bakery,piece,119,242,-0.1
+bar,piece,216,384,1.8
+beauty salon,piece,128,241,0
+book store,piece,137,267,0.2
+bus station,piece,157,285,0.6
+cafe,piece,202,360,1.5
+department store,piece,138,317,0.2
+gas station,piece,107,214,-0.4
+grocery or supermarket,piece,138,271,0.2
+gym,piece,108,227,-0.4
+liquor store,piece,130,264,0.1
+meal delivery,piece,137,284,0.2
+meal takeaway,piece,168,334,0.8
+movie theater,piece,92,220,-0.7
+night club,piece,218,405,1.9
+park,piece,84,159,-0.9
+parking,piece,138,276,0.2
+pharmacy,piece,125,250,-0
+place of worship,piece,115,223,-0.2
+restaurant,piece,177,338,1
+school,piece,75,155,-1
+shopping mall,piece,154,293,0.6
+stadium,piece,48,130,-1.6
+supermarket,piece,141,273,0.3
+transit station,piece,111,205,-0.3
+all,plastic,110,214,-0.3
+bakery,plastic,112,217,-0.3
+bar,plastic,163,299,0.7
+beauty salon,plastic,93,203,-0.7
+book store,plastic,122,237,-0.1
+bus station,plastic,238,401,2.3
+cafe,plastic,166,309,0.8
+department store,plastic,151,304,0.5
+gas station,plastic,100,196,-0.5
+grocery or supermarket,plastic,133,260,0.1
+gym,plastic,105,213,-0.4
+liquor store,plastic,129,264,0.1
+meal delivery,plastic,101,217,-0.5
+meal takeaway,plastic,147,299,0.4
+movie theater,plastic,118,233,-0.2
+night club,plastic,172,312,0.9
+park,plastic,89,169,-0.8
+parking,plastic,164,299,0.8
+pharmacy,plastic,119,235,-0.1
+place of worship,plastic,100,215,-0.5
+restaurant,plastic,144,284,0.4
+school,plastic,92,182,-0.7
+shopping mall,plastic,143,271,0.3
+stadium,plastic,59,150,-1.4
+supermarket,plastic,141,273,0.3
+transit station,plastic,115,209,-0.2
+all,wrapper,113,219,-0.3
+bakery,wrapper,113,231,-0.3
+bar,wrapper,169,309,0.9
+beauty salon,wrapper,96,195,-0.6
+book store,wrapper,125,256,-0
+bus station,wrapper,191,346,1.3
+cafe,wrapper,174,315,1
+department store,wrapper,153,330,0.5
+gas station,wrapper,114,215,-0.2
+grocery or supermarket,wrapper,132,262,0.1
+gym,wrapper,115,227,-0.2
+liquor store,wrapper,136,272,0.2
+meal delivery,wrapper,113,238,-0.3
+meal takeaway,wrapper,142,287,0.3
+movie theater,wrapper,102,238,-0.5
+night club,wrapper,170,313,0.9
+park,wrapper,90,168,-0.7
+parking,wrapper,141,271,0.3
+pharmacy,wrapper,129,252,0.1
+place of worship,wrapper,104,222,-0.5
+restaurant,wrapper,146,286,0.4
+school,wrapper,91,175,-0.7
+shopping mall,wrapper,152,285,0.5
+stadium,wrapper,61,159,-1.3
+supermarket,wrapper,140,274,0.3
+transit station,wrapper,119,216,-0.1
