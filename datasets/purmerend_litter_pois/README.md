@@ -9,6 +9,8 @@ This kind of dataset provides very high coverage and accuracy of urban POIs rele
 
 Because of Google’s terms of service, the data is available in aggregated form.
 
+The Litterati data in Purmerend includes 178,557 observations. 
+
 Each hexagonal cell covers 5,000 m2.
 
 - `google_places_categories_litter.csv`: categories of POIs used in this dataset.
