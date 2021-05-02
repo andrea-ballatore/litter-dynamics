@@ -4,8 +4,8 @@ Population data from Dutch Census (2017).
 
 ## Provinces
 
-- `litter_vs_population_provinces_netherlands_attributes_geom.gpkg`: Litter counts vs resident population by province in the Netherlands in GeoPackage format.
-- `litter_vs_population_provinces_netherlands_attributes.csv`: Attribute table from the previous file in CSV format.
+- `litter_vs_population_provinces_attributes_geom.gpkg`: Litter counts vs resident population by province in the Netherlands in GeoPackage format.
+- `litter_vs_population_provinces_attributes.csv`: Attribute table from the previous file in CSV format.
 
 Each row is a province with litter and population statistics.
 
@@ -23,9 +23,9 @@ Data dictionary:
 
 ## Municipalities
 
-- `litter_vs_population_municipalities_netherlands_attributes_geom.gpkg`: Litter counts vs resident population by gementee (municipalities) in the Netherlands in GeoPackage format.
-- `litter_vs_population_municipalities_netherlands_attributes.csv`: Attribute table from the previous file in CSV format.
-- `correlations_by_gemeente.csv`: Correlations between litter and socio-economic variables.
+- `litter_vs_population_municipalities_attributes_geom.gpkg`: Litter counts vs resident population by gementee (municipalities) in the Netherlands in GeoPackage format.
+- `litter_vs_population_municipalities_attributes.csv`: Attribute table from the previous file in CSV format.
+- `correlations_by_municipality.csv`: Correlations between litter and socio-economic variables.
 
 Each row is a municipality with litter and population statistics.
 
