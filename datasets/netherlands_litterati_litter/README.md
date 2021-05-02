@@ -20,3 +20,7 @@ Tags describing litter observations.
 
 - `litter_tag_stats.csv`: each row is a tag with the corresponding number of litter observations.
 - `litter_tag_pairs_stats.csv`: each row is a pair of tags co-occurring in the same observations with corresponding number of litter observations.
+
+## Temporal trends
+
+- `litter_temporal_trends.csv`: counts of litter observations by year and by month.
