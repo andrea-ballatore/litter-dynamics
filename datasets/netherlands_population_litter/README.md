@@ -25,6 +25,7 @@ Data dictionary:
 
 - `litter_vs_population_municipalities_netherlands_attributes_geom.gpkg`: Litter counts vs resident population by gementee (municipalities) in the Netherlands in GeoPackage format.
 - `litter_vs_population_municipalities_netherlands_attributes.csv`: Attribute table from the previous file in CSV format.
+- `correlations_by_gemeente.csv`: Correlations between litter and socio-economic variables.
 
 Each row is a municipality with litter and population statistics.
 
