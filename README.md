@@ -6,9 +6,19 @@ Urban litter, such as cans, packaging, and cigarettes, has significant impacts a
 
 ![Distribution of Litterati observations in the Netherlands](https://github.com/andrea-ballatore/litter-dynamics/blob/master/figures/3%20litter_vs_pop_gementee_map-v3.png) 
 
+## Datasets
 
-See `datasets` for the data used to produce the analysis in the study below.
-The article contains precise references to the datasets.
+The data used to generate the figures in the article can be found in the following subfolders in `datasets`:
+Each folder is documented with a readme file.
+
+- Figure 1: Diagram, no data
+- Figure 2: `netherlands_litterati_litter`
+- Figure 3: `netherlands_population_litter`
+- Figure 4: `purmerend_litter_pois`
+- Figure 5: `purmerend_litter_pois`
+- Figure 6: `purmerend_litter_pois`
+- Table 1: `netherlands_population_litter`
+- Table 2: `purmerend_litter_pois`
 
 ## Built With
 
