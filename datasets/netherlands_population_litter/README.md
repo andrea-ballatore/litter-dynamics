@@ -1,5 +1,7 @@
 # Litterati litter data and population, Netherlands
 
+Population data from Dutch Census (2017).
+
 ## Provinces
 
 - `litter_vs_population_provinces_netherlands_attributes_geom.gpkg`: Litter counts vs resident population by province in the Netherlands in GeoPackage format.
