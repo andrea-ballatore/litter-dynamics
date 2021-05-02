@@ -2,7 +2,7 @@
 
 ## Litter counts in hexagons
 
-- `litter_pois_hexagonal_grid_10sqkm_counts_w_geometries.gpkg`: Litter and POI counts in the Netherlands hexagonal grid with geometries in GeoPackage format.
+- `litter_pois_hexagonal_grid_10sqkm_counts_geom.gpkg`: Litter and POI counts in the Netherlands hexagonal grid with geometries in GeoPackage format.
 - `litter_pois_hexagonal_grid_10sqkm_counts.csv`: Attribute table from the previous file in CSV format.
 
 Each hexagon covers 10 km2.
