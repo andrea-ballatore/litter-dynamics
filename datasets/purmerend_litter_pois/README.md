@@ -1,6 +1,4 @@
-# Data for Purmerend analysis
-
-## Google's Points of Interest
+# Litter and Google POIs for Purmerend analysis
 
 Using a dedicated research tool that we developed (https://github.com/andrea-ballatore/google-places-api-r), we retrieved 1,420 POIs located in Purmerend from the Google Maps Places API in March 2020. This tool partitions the query area into small areas, and then generates as API queries, re-splitting the areas as needed. 
 This method ensures full coverage of POIs in the target area. 
@@ -13,26 +11,17 @@ Because of Google’s terms of service, the data is available in aggregated form
 
 Every hexagonal cell covers 5,000 m2.
 
-- `puremerend_pois_hexagonal_grid_5.gpkg`: POI statistics for hexagonal cells in Purmerend, NL, with geometries in GeoPackage format.
-- `puremerend_pois_hexagonal_grid_5_attributes.csv`: Attribute table for previous dataset.
-- `google_places_categories_litter.csv`: categories of POIs selected in this dataset.
+- `google_places_categories_litter.csv`: categories of POIs used in this dataset.
+- `puremerend_litter_pois_hotspot_hexgrid5.gpkg`: litter and POI statistics with hotspot analysis in Purmerend, NL, with geometries in GeoPackage format.
+- `puremerend_litter_pois_hotspot_hexgrid5_attributes.csv`: Attribute table for previous dataset.
 
 Data dictionary:
-- `gpoi_all`: count of all Google POIs in the cell.
-- `gpoi_restaurant` etc: count of Google POIs of a specific type in the cell.
-
-## Hotspot analysis
-
-Every hexagonal cell covers 5,000 m2.
-
-- `puremerend_litter_hexagonal_grid_5_hotspot.gpkg`: 
-- `puremerend_litter_hexagonal_grid_5_hotspot_attributes.csv`: 
-
-Data dictionary:
-- `freq`: frequency of litter observations.
+- `freq`: number of Litterati litter observations.
 - `freq_loci`: local Moran's I.
 - `freq_loci_pval`: p value for local Moran's I.
 - `freq_locgistar`: local G star.
 - `freq_locg_pval`: p value for local G star.
 - `freq_locg_fill`: cell colour for visualisation.
-- Other columns are not used.
+- `gpoi_all`: count of all Google POIs in the cell.
+- `gpoi_restaurant` etc: count of Google POIs of a specific type in the cell.
+
