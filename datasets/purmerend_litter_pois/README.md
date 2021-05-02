@@ -13,6 +13,8 @@ Because of Google’s terms of service, the data is available in aggregated form
 
 The Litterati data in Purmerend includes 178,557 observations. 
 
+The rasters used to calculate distances between litter and POIs are available in folder `poi_distance_rasters`.
+
 ## Spatial distribution
 
 Each hexagonal cell covers 5,000 m2.
@@ -54,4 +56,3 @@ Data dictionary:
 - `avg_L`: average cross L-function.
 - `max_L`: maximum cross L-function. 	
 - `avg_LZ`: Z value for average cross L-function.
-
