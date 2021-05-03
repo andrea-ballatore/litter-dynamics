@@ -38,4 +38,6 @@ Dr Andrea Ballatore (https://aballatore.space)
 
 ## Last updated
 
-Feb 2021
+May 2021
+
+[![DOI](https://zenodo.org/badge/275195604.svg)](https://zenodo.org/badge/latestdoi/275195604)
