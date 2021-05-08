@@ -4,7 +4,7 @@
 
 The Litterati litter data that underpins the study is in these files, distributed under CC-BY-SA 4.0:
 
-- `litterati_litter_points.csv.gz`: 
+`litterati_litter_points.csv.gz`: 
 
 Data dictionary: 
 Each point is a litter observation
@@ -13,7 +13,7 @@ Each point is a litter observation
 - `lon`,`lat`: latitude and longitude,
 - `TIMESTAMP_*`: timestamp (observation collection time)
 
-- `litterati_litter_points_tags.csv.gz`: 
+`litterati_litter_points_tags.csv.gz`: 
 
 Each row is a tag associated with a litter observation.
 
