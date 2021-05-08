@@ -1,5 +1,26 @@
 # Litterati litter data in the Netherlands
 
+## Source data
+
+The Litterati litter data that underpins the study is in these files:
+
+- `litterati_litter_points.csv.gz`: 
+
+Data dictionary: 
+Each point is a litter observation
+- `uid`: unique ID
+- `id`: original litterati ID
+- `lon`,`lat`: latitude and longitude,
+- `TIMESTAMP_*`: timestamp (observation collection time)
+
+- `litterati_litter_points_tags.csv.gz`: 
+
+Each row is a tag associated with a litter observation.
+
+Data dictionary: 
+- `uid`: unique ID
+- `tag`: tag
+
 ## Litter counts in hexagons
 
 - `litter_pois_hexagonal_grid_10sqkm_counts_geom.gpkg`: Litter and POI counts in the Netherlands hexagonal grid with geometries in GeoPackage format.
