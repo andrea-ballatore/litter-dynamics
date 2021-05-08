@@ -11,8 +11,8 @@ Urban litter, such as cans, packaging, and cigarettes, has significant impacts a
 
 ## Datasets
 
-The data used to generate the figures in the article can be found in the following subfolders in `datasets`:
-Each folder is documented with a readme file.
+The data used to generate the figures in the article can be found in the following subfolders in `datasets`. Each folder is documented with a readme file.
+The Google Points of Interest data is available only in aggregated form.
 
 - Figure 1: Diagram, no data
 - Figure 2: `netherlands_litterati_litter`
@@ -23,25 +23,13 @@ Each folder is documented with a readme file.
 - Table 1: `netherlands_population_litter`
 - Table 2: `purmerend_litter_pois`
 
-## Built With
-
-* R
-
-## Acknowledgements
-
-Data from Litterati (https://www.litterati.org).
-
 ## How to cite
 
 A. Ballatore, T. J. Verhagen, Z. Li, S. Cucurachi, "This city is not a bin: Crowdmapping the distribution of urban litter", _Journal of Industrial Ecology_, 2021
 
-## Author and maintainer
+## Lead author and maintainer
 
 Dr Andrea Ballatore (https://aballatore.space)
-
-## Last updated
-
-May 2021
 
 ## License
 
