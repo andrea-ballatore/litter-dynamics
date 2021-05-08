@@ -2,7 +2,7 @@
 
 ## Source data
 
-The Litterati litter data that underpins the study is in these files:
+The Litterati litter data that underpins the study is in these files, distributed under CC-BY-SA 4.0:
 
 - `litterati_litter_points.csv.gz`: 
 
